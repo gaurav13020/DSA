@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/binarySearch/binarySearch.iml" filepath="$PROJECT_DIR$/binarySearch/binarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/bubbleSort/bubbleSort.iml" filepath="$PROJECT_DIR$/bubbleSort/bubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashMap/hashMap.iml" filepath="$PROJECT_DIR$/hashMap/hashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heap/heap.iml" filepath="$PROJECT_DIR$/heap/heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/linearSearch/linearSearch.iml" filepath="$PROJECT_DIR$/linearSearch/linearSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/ticTacToe/ticTacToe.iml" filepath="$PROJECT_DIR$/ticTacToe/ticTacToe.iml" />
