@@ -4,7 +4,7 @@ public class KnapSack01 {
     public static void main(String[] args) {
         int[] wt = {1, 2, 3, 4};
         int[] val = {2, 5, 7, 9};
-        int w = 10;
+        int w =8;
         int n = 4;
 
         int[][] t = new int[n+1][w+1];
